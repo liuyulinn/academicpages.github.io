@@ -16,6 +16,7 @@ News
 
 - \[2023.06\] I begin my internship in [Hillbot](https://www.hillbot.ai/).
 - \[2023.09\] I join UC, San Diego for Ph.D. under supervision of Prof. [Hao Su](https://cseweb.ucsd.edu/~haosu/).
+- \[2023.03\] [RotationNormFlow](https://pku-epic.github.io/RotationNormFlow/) is accepted to CVPR 2023.
 
 Publications
 ======
@@ -24,3 +25,7 @@ Publications
 {% include archive-single.html %}
 {% endfor %}
 
+Services
+======
+
+Reviewer for ICRA 23. 
